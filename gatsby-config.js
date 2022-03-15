@@ -7,4 +7,7 @@
 module.exports = {
   /* Your site config here */
   plugins: [],
+  siteMetada: {
+    title: 'Web Warrior'
+  }
 }
