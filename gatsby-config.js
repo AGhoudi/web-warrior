@@ -7,7 +7,9 @@
 module.exports = {
   /* Your site config here */
   plugins: [],
-  siteMetada: {
-    title: 'Web Warrior'
+  siteMetadata: {
+    title: 'Web Warrior',
+    description: 'web dev portfolio',
+    copyright: 'This website is copyright 2021 Web Warrior'
   }
 }
