@@ -26,3 +26,5 @@ export default function Navbar() {
     </nav>
   )
 }
+
+// navbar.js
