@@ -21,3 +21,5 @@ module.exports = {
     copyright: 'This website is copyright 2021 Web Warrior'
   }
 }
+
+// configs
