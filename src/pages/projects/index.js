@@ -2,11 +2,12 @@ import React from 'react'
 import Layout from '../../components/Layout'
 import * as styles from '../../styles/projects.module.css'
 import { Link, graphql } from 'gatsby'
+import Img from "gatsby-image"
 
 const Projects = ({ data }) => {
   console.log(data)
   const projects = data.projects.nodes
-  const contact = data.contact.site
+  const contact = data.contact.siteMetadata.contact
 
   return (
     <Layout>
@@ -17,13 +18,14 @@ const Projects = ({ data }) => {
           {projects.map(project => (
             <Link to={"/projects/" + project.frontmatter.slug} key={project.id}>
               <div>
+                <Img fluid={project.frontmatter.thumb.childImageSharp.fluid} />
                 <h3>{ project.frontmatter.title }</h3>
                 <p>{ project.frontmatter.stack }</p>
               </div>
             </Link>
           ))}
         </div>
-        <p>Like what you see? Email me at { contact } for a quote!</p>
+        <p>Likewhat you see? email me at {contact} for a quote!</p>
       </div>
     </Layout>
   );
@@ -40,6 +42,13 @@ export const query = graphql`
           slug
           stack
           title
+          thumb {
+            childImageSharp {
+              fluid {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
         }
         id
       }
