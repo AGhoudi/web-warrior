@@ -6,6 +6,7 @@ import { Link, graphql } from 'gatsby'
 const Projects = ({ data }) => {
   console.log(data)
   const projects = data.projects.nodes
+  const contact = data.contact.site
 
   return (
     <Layout>
@@ -22,6 +23,7 @@ const Projects = ({ data }) => {
             </Link>
           ))}
         </div>
+        <p>Like what you see? Email me at { contact } for a quote!</p>
       </div>
     </Layout>
   );
