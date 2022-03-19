@@ -1,9 +1,9 @@
-import { graphql, Link } from 'gatsby'
 import React from 'react'
 import Layout from '../../components/Layout'
-import * as styles from '../../styles/projects.module.css'
+import styles from '../../styles/projects.module.css'
+import { Link, graphql } from 'gatsby'
 
-export default function Projects({ data }) {
+const Projects = ({ data }) => {
   console.log(data)
   const projects = data.allMarkdownRemark.nodes
 
@@ -24,13 +24,15 @@ export default function Projects({ data }) {
         </div>
       </div>
     </Layout>
-  )
+  );
 }
+ 
+export default Projects
 
 // export page query
 export const query = graphql`
   query ProjectsPage {
-    allMarkdownRemark {
+    allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}) {
       nodes {
         frontmatter {
           slug
