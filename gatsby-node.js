@@ -24,4 +24,4 @@ exports.createPages = async ({ graphql, actions }) => {
 
 }
 
-//
+// config
