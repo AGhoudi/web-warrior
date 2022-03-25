@@ -6,7 +6,7 @@
 
 
 
-    gatsby new my-hello-world-starter https://github.com/gatsbyjs/gatsby-starter-hello-world
+
     ```
 
 1.  **Start developing.**
