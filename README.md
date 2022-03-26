@@ -1,7 +1,5 @@
 
 
-
-    gatsby develop
     ```
 
 1.  **Open the source code and start editing!**
