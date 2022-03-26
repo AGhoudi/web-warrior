@@ -1,7 +1,6 @@
 
 
 
-    cd my-hello-world-starter/
     gatsby develop
     ```
 
