@@ -1,4 +1,4 @@
-## 🚀 Quick start (Gatsby Cloud)
+
 
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
