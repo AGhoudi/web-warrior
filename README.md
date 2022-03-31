@@ -1,7 +1,5 @@
 
 
-  
-    ├── src
     ├── .gitignore
     ├── .prettierrc
     ├── gatsby-browser.js
