@@ -1,6 +1,4 @@
 
-
-    ├── .gitignore
     ├── .prettierrc
     ├── gatsby-browser.js
     ├── gatsby-config.js
