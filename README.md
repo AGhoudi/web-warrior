@@ -1,6 +1,6 @@
 
  
-    ├── gatsby-config.js
+
     ├── gatsby-node.js
     ├── gatsby-ssr.js
     ├── LICENSE
