@@ -1,7 +1,4 @@
 
- 
-
-    ├── gatsby-node.js
     ├── gatsby-ssr.js
     ├── LICENSE
     ├── package-lock.json
