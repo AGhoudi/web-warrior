@@ -1,5 +1,5 @@
 
-    ├── gatsby-ssr.js
+ 
     ├── LICENSE
     ├── package-lock.json
     ├── package.json
