@@ -1,6 +1,6 @@
 
  
-    ├── LICENSE
+
     ├── package-lock.json
     ├── package.json
     └── README.md
