@@ -1,6 +1,6 @@
 
 
-3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
+
 
 4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
 
