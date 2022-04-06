@@ -1,4 +1,4 @@
-8.  **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs]
+8.  **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the
 
 9.  **`LICENSE`**: This Gatsby starter is licensed under the 0BSD license. This means that you can see this file as a placeholder and replace it with your own license.
 
