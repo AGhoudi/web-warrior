@@ -1,4 +1,4 @@
-9.  **`LICENSE`**: This Gatsby starter is licensed under the 0BSD license. This means that you can see this file as a placeholder
+9.  **`LICENSE`**: This Gatsby starter is licensed under the 0BSD license. 
 
 10. **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
 
