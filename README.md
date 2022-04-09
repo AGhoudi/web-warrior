@@ -1,4 +1,4 @@
-11. **`package.json`**: 
+11. 
 12. **`README.md`**: A text file containing useful reference information about your project.
 
 ## 🎓 Learning Gatsby
