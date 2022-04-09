@@ -1,5 +1,4 @@
-11. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata 
-
+11. **`package.json`**: A manifest file for Node.js projects,
 12. **`README.md`**: A text file containing useful reference information about your project.
 
 ## 🎓 Learning Gatsby
