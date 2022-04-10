@@ -1,4 +1,4 @@
-12. **`
+12.
 
 ## 🎓 Learning Gatsby
 
