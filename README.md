@@ -1,4 +1,4 @@
-12. **`README.md`**: A text file
+12. **`README.md`**:
 
 ## 🎓 Learning Gatsby
 
