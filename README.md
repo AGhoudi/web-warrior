@@ -1,4 +1,4 @@
-12. **`README.md`**:
+12. **`
 
 ## 🎓 Learning Gatsby
 
