@@ -1,4 +1,4 @@
-12. **`README.md`**: A text file containing useful reference information about your 
+12. **`README.md`**: A text file containing useful reference information 
 
 ## 🎓 Learning Gatsby
 
