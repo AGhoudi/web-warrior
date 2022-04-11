@@ -1,4 +1,4 @@
-## 🎓 Learning Gatsby
+## 🎓 Learning 
 
 Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.com/). Here are some places to start:
 
