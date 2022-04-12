@@ -1,4 +1,4 @@
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.com/)  
+Looking for more guidance? Full documentation for Gatsby lives [on the website]
 
 - **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.com/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
