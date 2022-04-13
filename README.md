@@ -4,4 +4,4 @@
 
 ## 💫 Deploy
 
-[Build, Deploy, and Host On The Only Cloud Built For Gatsby](https://www.
+[Build, Deploy, and Host On The Only Cloud Built For Gatsby](
