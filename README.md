@@ -4,4 +4,4 @@
 
 ## 💫 Deploy
 
-[Build, Deploy, and Host On The Only Cloud Built For
+[Build, Deploy, and Host On The Only Cloud 
