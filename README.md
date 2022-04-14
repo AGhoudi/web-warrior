@@ -4,4 +4,4 @@
 
 ## 💫 Deploy
 
-[Build, Deploy, and Host On The Only 
+[Build, Deploy, and Host On
