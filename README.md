@@ -1,1 +1,1 @@
-- **For most developers, we recommend starting with our [in-depth tutorial
+- **For most developers, we recommend starting with our [in-depth
