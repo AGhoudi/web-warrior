@@ -1,1 +1,1 @@
-- **For most developers, we recommend starting with
+- **For most developers, we recommend starting
